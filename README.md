@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on belajar coding
-- 📫 How to reach me = ig saya @egensaputra_
+- 📫 How to reach me = my IG @egensaputra_
 
 <!---
 egennursaputra/egennursaputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
